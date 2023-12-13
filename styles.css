@@ -1,0 +1,12 @@
+#bars-container {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+}
+
+.bar {
+    width: 20px;
+    background-color: rgb(38, 38, 109);
+    margin: 0 2px;
+    display: inline-block;
+}
